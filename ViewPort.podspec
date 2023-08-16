@@ -24,11 +24,12 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/chrislconover/ViewPort'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'chrislconover' => 'chris@curiousapplications.com' }
+  s.author           = { 'chrislconover' => 'nospam@curiousapplications.com' }
   s.source           = { :git => 'https://github.com/chrislconover/ViewPort.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
+  # s.swift_version = '5.0'
 
   s.source_files = 'Sources/ViewPort/**/*'
   
